@@ -10,7 +10,7 @@ I am a **Full Stack Developer** specializing in building high-performance backen
 
 ### 🛠️ Tech Stack
 * **Languages:** C#, PHP, JavaScript, SQL
-* **Frameworks:** .NET Core, ASP.NET MVC, Laravel
+* **Frameworks:** .NET Core, ASP.NET MVC
 * **Tools:** Git, JWT Authentication, RESTful APIs
 
 ### 🔗 Connect with me
