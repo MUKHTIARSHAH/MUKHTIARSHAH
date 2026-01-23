@@ -18,6 +18,7 @@ I am a **Full Stack Developer** specializing in building high-performance backen
 * [Facebook](https://www.facebook.com/share/1AQtGH2nU4/)
 
 
-### 📊 My GitHub Stats
-![Mukhtiar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUKHTIARSHAH&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUKHTIARSHAH&layout=compact&theme=tokyonight)
+## 📊 My GitHub Stats
+
+![Mukhtiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUKHTIARSHAH&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUKHTIARSHAH&layout=compact&theme=radical)
