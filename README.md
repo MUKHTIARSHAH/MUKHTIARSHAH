@@ -1,45 +1,42 @@
 # Hi, I'm Mukhtiar Shah 👋
 
+I am a **Full Stack Developer** specializing in high-performance backend systems and scalable web applications. With deep expertise in the **.NET 9 and PHP ecosystems**, I architect robust solutions that bridge complex database logic with seamless user experiences.
 
+---
 
-I am a **Full Stack Developer** specializing in building high-performance backend systems and scalable web applications. My expertise lies in the **.NET and PHP ecosystems**, with a proven track record of delivering production-ready solutions.
+### 🌟 Featured Project: Ustaad360 (Backend)
+**Service Marketplace Ecosystem | .NET 9 & SQL Server**
+* **Architected** a complete job lifecycle system from technician onboarding to automated wallet settlements.
+* **Infrastructure:** Implemented **SignalR** for real-time messaging, **Redis** for distributed caching, and **OpenTelemetry** for observability.
+* **Security:** Multi-layer security including **JWT (RBAC)**, Rate Limiting, and OTP-based phone verification.
+* **Pattern:** Clean Architecture (Domain-Driven Design) with a focus on testability and scalability.
 
-
+---
 
 ### ⚡ Professional Highlights
 
-* **API Architect:** Successfully developed and deployed **190+ APIs** (92 mobile, 100+ web) ensuring high availability and security.
-
-* **Backend Specialist:** Deeply experienced in **ASP.NET Core**, **PHP**, and **Microservices** architecture.
-
-* **Database Expert:** Skilled in designing and optimizing **MySQL** and **SQL Server** databases.
-
-* **Full Stack Capable:** Proficient in **React**, **Bootstrap**, and modern JavaScript.
-
-
+* **API Architect:** Designed and deployed **190+ RESTful APIs** (92 mobile-optimized, 100+ web-integrated) focusing on high availability.
+* **Backend Specialist:** Expert in **ASP.NET Core**, **PHP (Laravel/MVC)**, and **Microservices** architecture.
+* **Database Architect:** Advanced optimization of **MySQL** and **SQL Server** for high-traffic environments.
+* **Real-Time Dev:** Experienced in building **SignalR Hubs** and real-time notification engines.
 
 ### 🛠️ Tech Stack
 
-* **Languages:** C#, PHP, JavaScript, SQL
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C#, PHP, JavaScript (ES6+), SQL |
+| **Frameworks** | .NET 9, ASP.NET MVC, Web API, React |
+| **Databases** | SQL Server, MySQL, Redis (Caching) |
+| **Tools/DevOps** | Git, Docker, JWT, Postman, OpenTelemetry |
 
-* **Frameworks:** .NET Core, ASP.NET MVC
+---
 
-* **Tools:** Git, JWT Authentication, RESTful APIs
+### 📊 My GitHub Stats
+![Mukhtiar's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MUKHTIARSHAH&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MUKHTIARSHAH&layout=compact&theme=radical&hide=html,css&count_private=true)
 
+---
 
-
-### 🔗 Connect with me
-
-* [LinkedIn](https://linkedin.com/in/mukhtiar-shah-4567221aa)
-
-* [Facebook](https://www.facebook.com/share/1AQtGH2nU4/)
-
-
-
-
-
-## 📊 My GitHub Stats
-
-![Mukhtiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUKHTIARSHAH&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUKHTIARSHAH&layout=compact&theme=radical)
+### 🔗 Let's Connect
+* 💼 [LinkedIn](https://linkedin.com/in/mukhtiar-shah-4567221aa)
+* 🌐 [Facebook](https://www.facebook.com/share/1AQtGH2nU4/)
