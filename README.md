@@ -24,16 +24,17 @@ I am a **Full Stack Developer** specializing in high-performance backend systems
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C#, PHP, JavaScript (ES6+), SQL |
+| **Languages** | C#, PHP, SQL, JavaScript (ES6+) |
 | **Frameworks** | .NET 9, ASP.NET MVC, Web API, React |
 | **Databases** | SQL Server, MySQL, Redis (Caching) |
 | **Tools/DevOps** | Git, Docker, JWT, Postman, OpenTelemetry |
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Activity
 ![Mukhtiar's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MUKHTIARSHAH&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MUKHTIARSHAH&layout=compact&theme=radical&hide=html,css&count_private=true)
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MUKHTIARSHAH&layout=compact&theme=radical&count_private=true&hide=html,css,javascript,typescript)
 
 ---
 
