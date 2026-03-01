@@ -31,12 +31,17 @@ I am a **Full Stack Developer** specializing in high-performance backend systems
 
 ---
 
-### 📊 My GitHub Activity
-![Mukhtiar's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MUKHTIARSHAH&show_icons=true&theme=radical&count_private=true)
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MUKHTIARSHAH&layout=compact&theme=radical&count_private=true&hide=html,css,javascript,typescript)
+![### 🛠️ Top Languages (Primary Expertise)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
+
+### 📊 GitHub Activity Snapshot
+![Mukhtiar's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MUKHTIARSHAH&show_icons=true&theme=radical&count_private=true)
+
 
 ### 🔗 Let's Connect
 * 💼 [LinkedIn](https://linkedin.com/in/mukhtiar-shah-4567221aa)
