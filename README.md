@@ -1,48 +1,149 @@
-# Hi, I'm Mukhtiar Shah 👋
+# Hi, I'm Mukhtiar Shah
 
-I am a **Full Stack Developer** specializing in high-performance backend systems and scalable web applications. With deep expertise in the **.NET 9 and PHP ecosystems**, I architect robust solutions that bridge complex database logic with seamless user experiences.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukhtiar-shah-4567221aa)
+[![Email](https://img.shields.io/badge/Email-shahsaib256@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahsaib256@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MUKHTIARSHAH)
 
----
+**Full Stack Developer** · **Backend & API Architect** · **.NET 9 & PHP**
 
-### 🌟 Featured Project: Ustaad360 (Backend)
-**Service Marketplace Ecosystem | .NET 9 & SQL Server**
-* **Architected** a complete job lifecycle system from technician onboarding to automated wallet settlements.
-* **Infrastructure:** Implemented **SignalR** for real-time messaging, **Redis** for distributed caching, and **OpenTelemetry** for observability.
-* **Security:** Multi-layer security including **JWT (RBAC)**, Rate Limiting, and OTP-based phone verification.
-* **Pattern:** Clean Architecture (Domain-Driven Design) with a focus on testability and scalability.
+I design and build scalable backend systems — from REST APIs and microservices to real-time platforms with secure payments, authentication, and production-grade observability.
 
 ---
 
-### ⚡ Professional Highlights
+## About Me
 
-* **API Architect:** Designed and deployed **190+ RESTful APIs** (92 mobile-optimized, 100+ web-integrated) focusing on high availability.
-* **Backend Specialist:** Expert in **ASP.NET Core**, **PHP (Laravel/MVC)**, and **Microservices** architecture.
-* **Database Architect:** Advanced optimization of **MySQL** and **SQL Server** for high-traffic environments.
-* **Real-Time Dev:** Experienced in building **SignalR Hubs** and real-time notification engines.
-
-### 🛠️ Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C#, PHP, SQL, JavaScript (ES6+) |
-| **Frameworks** | .NET 9, ASP.NET MVC, Web API, React |
-| **Databases** | SQL Server, MySQL, Redis (Caching) |
-| **Tools/DevOps** | Git, Docker, JWT, Postman, OpenTelemetry |
+- Backend-focused developer with experience across **ASP.NET Core**, **PHP**, and **microservices**
+- Architected and deployed **190+ RESTful APIs** for mobile and web products
+- Strong in **Clean Architecture**, **domain modeling**, **database design**, and **integration testing**
+- Currently building **Ustaad360** — a home-services marketplace for Pakistan
 
 ---
 
-![### 🛠️ Top Languages (Primary Expertise)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![.NET 9](https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+## Featured Projects
+
+### Ustaad360 Backend
+
+**Home-services marketplace API** · .NET 9 · PostgreSQL · SignalR · Escrow Payments
+
+- End-to-end job workflow: requests, quotes, scheduling, completion, and reviews
+- Escrow payments with JazzCash, Easypaisa, and bank transfer integrations
+- Real-time communication via SignalR (jobs + chat)
+- Clean Architecture, MediatR, transactional outbox, OpenTelemetry, and comprehensive tests
+
+🔗 [Ustaad360-backend](https://github.com/MUKHTIARSHAH/Ustaad360-backend)
+
+---
+
+### Auth Microservice (PHP)
+
+**JWT authentication service** · PHP · MySQL · Swagger
+
+Standalone authentication microservice with JWT, refresh tokens, and secure user management.
+
+🔗 [Auth-Microservice-PHP](https://github.com/MUKHTIARSHAH/Auth-Microservice-PHP)
+
+---
+
+### Error Log Microservice (PHP)
+
+**Centralized error tracking** · PHP · MySQL · JSON logging · Swagger
+
+Structured error logging microservice for distributed applications.
+
+🔗 [Error-Log-Microservice-PHP](https://github.com/MUKHTIARSHAH/Error-Log-Microservice-PHP)
+
+---
+
+### PHP Backend API Portfolio
+
+Overview of **190+ PHP/MySQL API deployments** across production systems.
+
+🔗 [PHP-Backend-API-Portfolio](https://github.com/MUKHTIARSHAH/PHP-Backend-API-Portfolio)
+
+---
+
+### Jokes Web App
+
+**ASP.NET Core MVC** demo with authentication, authorization, EF Core, and Bootstrap UI.
+
+🔗 [JokesWebApp](https://github.com/MUKHTIARSHAH/JokesWebApp)
+
+---
+
+## Tech Stack
+
+### Languages
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Backend & Frameworks
+
+![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Databases & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Tools & Practices
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
 
-### 📊 GitHub Activity Snapshot
-![Mukhtiar's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MUKHTIARSHAH&show_icons=true&theme=radical&count_private=true)
+## Core Skills
 
+| Area | Highlights |
+|------|------------|
+| **Architecture** | Clean Architecture, DDD, Microservices, CQRS, Repository Pattern |
+| **APIs** | REST, versioning, Swagger/OpenAPI, rate limiting, webhooks |
+| **Security** | JWT, RBAC, OTP, encryption, CSRF protection, audit logging |
+| **Real-time** | SignalR hubs, push notifications, background workers |
+| **Data** | PostgreSQL, MySQL, SQL Server, EF Core, migrations, indexing |
+| **Quality** | xUnit, FluentAssertions, integration testing, Moq |
 
-### 🔗 Let's Connect
-* 💼 [LinkedIn](https://linkedin.com/in/mukhtiar-shah-4567221aa)
-* 🌐 [Facebook](https://www.facebook.com/share/1AQtGH2nU4/)
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MUKHTIARSHAH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKHTIARSHAH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUKHTIARSHAH&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## Currently Learning & Building
+
+- Production hardening for **Ustaad360** (escrow, AI matching, payment gateways)
+- Advanced **ASP.NET Core** patterns: outbox, observability, and integration testing
+- Scalable **microservice** design with secure service-to-service communication
+
+---
+
+## Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/mukhtiar-shah-4567221aa)
+- 📧 [shahsaib256@gmail.com](mailto:shahsaib256@gmail.com)
+- 🐙 [GitHub](https://github.com/MUKHTIARSHAH)
+
+---
+
+<p align="center">
+  <i>Open to backend engineering opportunities, freelance API work, and collaboration on scalable web platforms.</i>
+</p>
