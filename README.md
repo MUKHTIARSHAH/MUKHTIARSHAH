@@ -4,18 +4,18 @@
 [![Email](https://img.shields.io/badge/Email-shahsaib256@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahsaib256@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MUKHTIARSHAH)
 
-**Full Stack Developer** · **Backend & API Architect** · **.NET 9 & PHP**
+**Full Stack Developer** · **Backend & API Architect** · **.NET 9, React & PHP**
 
-I design and build scalable backend systems — from REST APIs and microservices to real-time platforms with secure payments, authentication, and production-grade observability.
+I design and build scalable full-stack platforms — from REST APIs and microservices to React web clients with real-time communication, secure payments, authentication, and production-grade observability.
 
 ---
 
 ## About Me
 
-- Backend-focused developer with experience across **ASP.NET Core**, **PHP**, and **microservices**
+- Full-stack developer with experience across **ASP.NET Core**, **React**, **PHP**, and **microservices**
 - Architected and deployed **190+ RESTful APIs** for mobile and web products
 - Strong in **Clean Architecture**, **domain modeling**, **database design**, and **integration testing**
-- Currently building **Ustaad360** — a home-services marketplace for Pakistan
+- Currently building **Ustaad360** — a home-services marketplace for Pakistan (backend API + React frontend)
 
 ---
 
@@ -31,6 +31,19 @@ I design and build scalable backend systems — from REST APIs and microservices
 - Clean Architecture, MediatR, transactional outbox, OpenTelemetry, and comprehensive tests
 
 🔗 [Ustaad360-backend](https://github.com/MUKHTIARSHAH/Ustaad360-backend)
+
+---
+
+### Ustaad360 Frontend
+
+**Home-services marketplace web app** · React 19 · TypeScript · Redux Toolkit · SignalR
+
+- Customer, technician, and admin dashboards with role-based routing
+- Service booking, payments, real-time chat, and job tracking
+- Google Maps integration for location picker and geocoding
+- Redux Toolkit state management, lazy-loaded routes, and Playwright E2E tests
+
+🔗 [Ustaad360Frontend](https://github.com/MUKHTIARSHAH/Ustaad360Frontend)
 
 ---
 
@@ -77,7 +90,15 @@ Overview of **190+ PHP/MySQL API deployments** across production systems.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend & Frameworks
 
@@ -107,11 +128,12 @@ Overview of **190+ PHP/MySQL API deployments** across production systems.
 | Area | Highlights |
 |------|------------|
 | **Architecture** | Clean Architecture, DDD, Microservices, CQRS, Repository Pattern |
+| **Frontend** | React 19, TypeScript, Redux Toolkit, React Router, Tailwind CSS, Vite |
 | **APIs** | REST, versioning, Swagger/OpenAPI, rate limiting, webhooks |
 | **Security** | JWT, RBAC, OTP, encryption, CSRF protection, audit logging |
 | **Real-time** | SignalR hubs, push notifications, background workers |
 | **Data** | PostgreSQL, MySQL, SQL Server, EF Core, migrations, indexing |
-| **Quality** | xUnit, FluentAssertions, integration testing, Moq |
+| **Quality** | xUnit, FluentAssertions, Jest, Playwright, integration testing, Moq |
 
 ---
 
@@ -145,5 +167,5 @@ Overview of **190+ PHP/MySQL API deployments** across production systems.
 ---
 
 <p align="center">
-  <i>Open to backend engineering opportunities, freelance API work, and collaboration on scalable web platforms.</i>
+  <i>Open to full-stack and backend engineering opportunities, freelance API work, and collaboration on scalable web platforms.</i>
 </p>
