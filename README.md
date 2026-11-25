@@ -1,12 +1,13 @@
-# Hi, I'm Mukhtiar Shah
+# Mukhtiar Shah
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukhtiar-shah-4567221aa)
 [![Email](https://img.shields.io/badge/Email-shahsaib256@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahsaib256@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MUKHTIARSHAH)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge)](https://mukhtiar-portfolio.vercel.app)
 
-**Full Stack Developer** · **Backend & API Architect** · **.NET 9, React & PHP**
+**Full-Stack Software Engineer** · **Backend & API Development** · **.NET 9, React, React Native & PHP**
 
-I design and build scalable full-stack platforms — from REST APIs and microservices to React web clients with real-time communication, secure payments, authentication, and production-grade observability.
+I build web and mobile products backed by secure APIs, real-time communication, and maintainable service architectures.
 
 ---
 
@@ -15,35 +16,21 @@ I design and build scalable full-stack platforms — from REST APIs and microser
 - Full-stack developer with experience across **ASP.NET Core**, **React**, **PHP**, and **microservices**
 - Architected and deployed **190+ RESTful APIs** for mobile and web products
 - Strong in **Clean Architecture**, **domain modeling**, **database design**, and **integration testing**
-- Currently building **Ustaad360** — a home-services marketplace for Pakistan (backend API + React frontend)
+- Currently building **Ustaad360** — a home-services marketplace with API, web, and mobile clients
 
 ---
 
 ## Featured Projects
 
-### Ustaad360 Backend
+### Ustaad360 | Home-Services Marketplace
 
-**Home-services marketplace API** · .NET 9 · PostgreSQL · SignalR · Escrow Payments
+**Full-stack marketplace** · ASP.NET Core 9 · PostgreSQL · React · React Native · SignalR
 
-- End-to-end job workflow: requests, quotes, scheduling, completion, and reviews
-- Escrow payments with JazzCash, Easypaisa, and bank transfer integrations
-- Real-time communication via SignalR (jobs + chat)
-- Clean Architecture, MediatR, transactional outbox, OpenTelemetry, and comprehensive tests
+- Customer, technician, and administrator workflows across web and mobile
+- Service discovery, bookings, quotes, job lifecycle, payments, and reviews
+- Real-time chat and job updates, with role-based access and operational monitoring
 
-🔗 [Ustaad360-backend](https://github.com/MUKHTIARSHAH/Ustaad360-backend)
-
----
-
-### Ustaad360 Frontend
-
-**Home-services marketplace web app** · React 19 · TypeScript · Redux Toolkit · SignalR
-
-- Customer, technician, and admin dashboards with role-based routing
-- Service booking, payments, real-time chat, and job tracking
-- Google Maps integration for location picker and geocoding
-- Redux Toolkit state management, lazy-loaded routes, and Playwright E2E tests
-
-🔗 [Ustaad360Frontend](https://github.com/MUKHTIARSHAH/Ustaad360Frontend)
+The application source repositories are private. The [public architecture overview](https://github.com/MUKHTIARSHAH/Ustaad360-Architecture) documents the system design.
 
 ---
 
@@ -69,7 +56,7 @@ Structured error logging microservice for distributed applications.
 
 ### PHP Backend API Portfolio
 
-Overview of **190+ PHP/MySQL API deployments** across production systems.
+Overview of **190+ REST API deployments** for web and mobile products.
 
 🔗 [PHP-Backend-API-Portfolio](https://github.com/MUKHTIARSHAH/PHP-Backend-API-Portfolio)
 
@@ -96,6 +83,7 @@ Overview of **190+ PHP/MySQL API deployments** across production systems.
 ### Frontend
 
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -128,25 +116,12 @@ Overview of **190+ PHP/MySQL API deployments** across production systems.
 | Area | Highlights |
 |------|------------|
 | **Architecture** | Clean Architecture, DDD, Microservices, CQRS, Repository Pattern |
-| **Frontend** | React 19, TypeScript, Redux Toolkit, React Router, Tailwind CSS, Vite |
+| **Frontend** | React 19, React Native, TypeScript, Redux Toolkit, React Router, Tailwind CSS, Vite |
 | **APIs** | REST, versioning, Swagger/OpenAPI, rate limiting, webhooks |
 | **Security** | JWT, RBAC, OTP, encryption, CSRF protection, audit logging |
 | **Real-time** | SignalR hubs, push notifications, background workers |
 | **Data** | PostgreSQL, MySQL, SQL Server, EF Core, migrations, indexing |
 | **Quality** | xUnit, FluentAssertions, Jest, Playwright, integration testing, Moq |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUKHTIARSHAH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKHTIARSHAH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUKHTIARSHAH&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
